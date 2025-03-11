@@ -1,0 +1,24 @@
+# Ignorar dependencias de Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de configuración del entorno
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignorar archivos de logs
+logs/
+*.log
+
+# Ignorar archivos de compilación
+dist/
+build/
+
+# Ignorar carpetas de Git relacionadas
+.git/
+
+# Ignorar todos los archivos CSV
+*.csv
